@@ -3,9 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
+	"ossutil/lib"
 	"strings"
-
-	"github.com/aliyun/ossutil/lib"
 )
 
 func main() {
